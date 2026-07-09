@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I really am interested in coding, its really fun and challeging. right now, I am trying to learn JS and TS.
+
 <!--
 **tilakprakhar214-beep/tilakprakhar214-beep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
